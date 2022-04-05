@@ -1,1 +1,1 @@
-## Point of Sale system created using DJango and MySQL database
+## Point of Sale system created using Django and MySQL database
